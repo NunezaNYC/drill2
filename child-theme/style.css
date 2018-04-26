@@ -1,0 +1,14 @@
+/*
+Theme Name: child-theme
+Description: Child theme of twentyseventeen
+Template: twentyseventeen */
+
+body{
+
+    background: rgb(0, 83, 128);
+}
+
+h1{
+
+    color: rgb(242, 255, 248);
+}
